@@ -1,10 +1,8 @@
 #include <iostream>
 #include <math.h>
 #include <iomanip>
-#include <cstdlib>
 using namespace std;
 int main () {
-     system("chcp 65001 > nul");
     string satuan_nilai = "";
     int pilihan = 0;
     double dolar = 0;
